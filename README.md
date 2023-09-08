@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Nilay Saraf</h1>
+-- <h1 align="center">Hi 👋, I'm Nilay Saraf</h1>
 <h3 align="center">A Student who has a long way to go....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilay220303&label=Profile%20views&color=0e75b6&style=flat" alt="nilay220303" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **developing my skills.**
 
-- 🌱 I’m currently learning **Python, html ,....**
+- 🌱 I’m currently on learning path of **Data Scientist**
 
 - 👯 I’m looking to collaborate on **any Python project**
 
